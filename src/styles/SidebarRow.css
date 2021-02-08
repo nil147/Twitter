@@ -1,0 +1,17 @@
+.sidebarRow {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.sidebarRow > h4 {
+    margin-left: 10px;
+}
+
+.sidebarRow:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    color: #66a6ff;
+}
+

@@ -1,0 +1,26 @@
+.sidebar {
+    border-right: 1px solid lightgray;
+    flex: 0.2;
+
+}
+
+.sidebar > img {
+    height: 2rem;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center ;
+    justify-content: center ;
+}
+
+.sidebar > button {
+    text-transform: inherit !important;
+    background-color: rgb(29, 161, 242);
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+    flex: 1 !important;
+    width: 100%;
+
+}
+
